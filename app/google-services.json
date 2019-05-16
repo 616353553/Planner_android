@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "120101313793",
+    "firebase_url": "https://planner-37258.firebaseio.com",
+    "project_id": "planner-37258",
+    "storage_bucket": "planner-37258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120101313793:android:8972d4d582837016",
+        "android_client_info": {
+          "package_name": "com.evolution.planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120101313793-556hn56dc3i4vuei59pl3hc0u076b9lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdPFH-fLLZC1s6vaySyZhgCX9rL8VVnmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120101313793-556hn56dc3i4vuei59pl3hc0u076b9lc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "120101313793-r9beolbn44ukva9ftmttso118l83619n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bai.Planner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
